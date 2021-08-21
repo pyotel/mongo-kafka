@@ -63,3 +63,8 @@ The following systems will be created:
 ### Next
 
 - [Usage guide](https://docs.mongodb.com/kafka-connector/current/)
+
+
+### Trueshooting
+
+- If you have to install JAVA, reference ./java_install.sh
